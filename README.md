@@ -1,4 +1,4 @@
-# Initiat a Board Design Project
+# Initiate a Board Design Project
 
 ## project configuration
 create following folder and files:
