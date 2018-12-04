@@ -1,4 +1,4 @@
-# Initiat a Schematic Project
+# Initiat a Board Design Project
 
 ## project configuration
 create following folder and files:
